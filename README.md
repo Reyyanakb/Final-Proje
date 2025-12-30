@@ -1,4 +1,4 @@
-# Final-Proje
+# Oyun Programlama Final-Oyunu
 1.Oyunun Amacı 
 
 Oyununun amacı, random bir şekilde gelen işlemlerin 1 saniye içerisinde sonucunun doğru mu yoksa yanlış mı olduğunu algılayıp işaretlemelerini ve bunun sonucunda puan almaktır. Oyun 20 saniye sürmektedir ve tek turdur   eğer oyuncu 100 puanı geçerse oyunu  geçmiş sayılır. Fakat oyunda oyuncunun hızlı davranması, gerekli yerlerde pratik işlem yapma yeteneğini kullanması gerekmektedir . 
